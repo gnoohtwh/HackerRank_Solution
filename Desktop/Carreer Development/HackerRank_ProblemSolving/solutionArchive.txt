@@ -238,4 +238,16 @@ for i in range(len(rSumList)):
 
 --- Medium Probelm --- Climbing the leaderboard
 
+rankedArr = []
 
+
+
+for k in range(len(player)):
+    ranked = ranked
+    print(ranked)
+    ranked.append(player[k])
+    ranked = list(set(ranked))
+    ranked.sort(reverse=True)
+    for i in range(len(ranked)):
+        if player[k] == ranked[i]:
+            rankedArr.append(i+1)
