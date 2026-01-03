@@ -235,4 +235,7 @@ for i in range(len(rSumList)):
                         getDiag()
                         getRCL()
 
-           
+
+--- Medium Probelm --- Climbing the leaderboard
+
+
