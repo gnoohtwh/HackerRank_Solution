@@ -251,3 +251,40 @@ for k in range(len(player)):
     for i in range(len(ranked)):
         if player[k] == ranked[i]:
             rankedArr.append(i+1)
+
+4/1/2025 ---- Medium Probelm --- Climbing the leaderboard
+ranked = [100,90,90,80,75,60]
+player = [50,65,77,90,102]
+
+currRank = ranked[0]
+countRank = 1
+rank = []
+for i in range(len(ranked)):
+    if ranked[i] != currRank:
+        countRank += 1
+    currRank = ranked[i]
+    rank.append(countRank)
+
+resultRank = []
+pointer = len(ranked) -1
+for scorePlayer in player:
+    while pointer >= -1:
+        if pointer - 1 >= 0:
+            if scorePlayer >= ranked[pointer-1]:
+                pointer -= 1 
+            else:
+                if scorePlayer >= ranked[pointer]:
+                    resultRank.append(rank[pointer])
+                    break
+                else:
+                    resultRank.append(rank[pointer]+1)
+                    break
+        else:
+            if scorePlayer >= ranked[pointer-1]:
+                resultRank.append(rank[pointer])
+                break
+            else:
+                resultRank.append(rank[pointer]+1)
+                break
+
+print(resultRank)
