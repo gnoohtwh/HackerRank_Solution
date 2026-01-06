@@ -1,0 +1,15 @@
+/Users/nguyenhuuthong/Desktop/Carreer Development/HackerRank_ProblemSolving/HackerRankC#Solution/bin/Debug/net9.0/HackerRankC#Solution
+/Users/nguyenhuuthong/Desktop/Carreer Development/HackerRank_ProblemSolving/HackerRankC#Solution/bin/Debug/net9.0/HackerRankC#Solution.deps.json
+/Users/nguyenhuuthong/Desktop/Carreer Development/HackerRank_ProblemSolving/HackerRankC#Solution/bin/Debug/net9.0/HackerRankC#Solution.runtimeconfig.json
+/Users/nguyenhuuthong/Desktop/Carreer Development/HackerRank_ProblemSolving/HackerRankC#Solution/bin/Debug/net9.0/HackerRankC#Solution.dll
+/Users/nguyenhuuthong/Desktop/Carreer Development/HackerRank_ProblemSolving/HackerRankC#Solution/bin/Debug/net9.0/HackerRankC#Solution.pdb
+/Users/nguyenhuuthong/Desktop/Carreer Development/HackerRank_ProblemSolving/HackerRankC#Solution/obj/Debug/net9.0/HackerRankC#Solution.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nguyenhuuthong/Desktop/Carreer Development/HackerRank_ProblemSolving/HackerRankC#Solution/obj/Debug/net9.0/HackerRankC#Solution.AssemblyInfoInputs.cache
+/Users/nguyenhuuthong/Desktop/Carreer Development/HackerRank_ProblemSolving/HackerRankC#Solution/obj/Debug/net9.0/HackerRankC#Solution.AssemblyInfo.cs
+/Users/nguyenhuuthong/Desktop/Carreer Development/HackerRank_ProblemSolving/HackerRankC#Solution/obj/Debug/net9.0/HackerRankC#Solution.csproj.CoreCompileInputs.cache
+/Users/nguyenhuuthong/Desktop/Carreer Development/HackerRank_ProblemSolving/HackerRankC#Solution/obj/Debug/net9.0/HackerRankC#Solution.sourcelink.json
+/Users/nguyenhuuthong/Desktop/Carreer Development/HackerRank_ProblemSolving/HackerRankC#Solution/obj/Debug/net9.0/HackerRankC#Solution.dll
+/Users/nguyenhuuthong/Desktop/Carreer Development/HackerRank_ProblemSolving/HackerRankC#Solution/obj/Debug/net9.0/refint/HackerRankC#Solution.dll
+/Users/nguyenhuuthong/Desktop/Carreer Development/HackerRank_ProblemSolving/HackerRankC#Solution/obj/Debug/net9.0/HackerRankC#Solution.pdb
+/Users/nguyenhuuthong/Desktop/Carreer Development/HackerRank_ProblemSolving/HackerRankC#Solution/obj/Debug/net9.0/HackerRankC#Solution.genruntimeconfig.cache
+/Users/nguyenhuuthong/Desktop/Carreer Development/HackerRank_ProblemSolving/HackerRankC#Solution/obj/Debug/net9.0/ref/HackerRankC#Solution.dll
