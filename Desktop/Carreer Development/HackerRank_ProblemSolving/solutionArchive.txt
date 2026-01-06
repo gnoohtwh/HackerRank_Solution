@@ -288,3 +288,14 @@ for scorePlayer in player:
                 break
 
 print(resultRank)
+
+6/1/2025 -- Easy Probelm -- Save the Prisoner---
+
+n = 7
+m = 25
+s = 6
+step = m % n-1 # ignoring the first candy at prisoner(n)
+if step + s > n:
+    print(s+step -n)
+else:
+    print(s+step)
